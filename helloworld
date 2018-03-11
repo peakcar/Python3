@@ -1,0 +1,7 @@
+print("Hello World!")
+
+# 知识要点：
+# 1. Python输出用内置函数 print()
+# 1. Python单行注释 #
+
+
